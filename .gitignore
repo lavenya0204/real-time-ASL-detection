@@ -1,0 +1,9 @@
+# Ignore virtual environment
+asl2-env/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore system files
+.DS_Store
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
