@@ -6,7 +6,7 @@ This project performs real-time American Sign Language (ASL) detection using com
 - Python
 - OpenCV
 - TensorFlow / Keras
-- cvzone
+- cvzone - Handtracking module
 - NumPy
 
 ## ⚙️ Setup Instructions
